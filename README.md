@@ -38,8 +38,10 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC UP COUNTER**
+<img width="1280" height="641" alt="image" src="https://github.com/user-attachments/assets/cf999dcf-630e-47d0-9d46-e523f5dccdf4" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/1330c7c0-43e7-467f-a575-5b885061c0d1" />
 
 **TRUTH TABLE**
 
